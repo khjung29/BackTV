@@ -1,7 +1,7 @@
 { 
   "channels" : [
     {
-      "title" : "백종원은요리비책",
+      "title" : "백종원의요리비책",
       "fbNativeInterval" : "3",
       "fbNativeReload" : "true",
       "notiOn" : "false",
