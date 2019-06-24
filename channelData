@@ -4,7 +4,7 @@
       "title" : "백종원의요리비책",
       "fbNativeInterval" : "3",
       "fbNativeReload" : "true",
-      "notiOn" : "false",
+      "notiOn" : "true",
       "notiTitle" : "공지",
       "notiMsg" : "감사합니다",
       "notiPositiveText" : "확인",
